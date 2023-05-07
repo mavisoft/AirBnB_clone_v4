@@ -45,3 +45,6 @@ def hbnb():
 if __name__ == "__main__":
     """ Main Function """
     app.run(host='0.0.0.0', port=5001)
+
+<link rel="stylesheet" href="css/style.css?cache_id=1234">
+
